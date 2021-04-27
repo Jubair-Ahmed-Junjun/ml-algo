@@ -1,0 +1,3 @@
+what is the risk for given data?(from the given csv file)
+speed = 160km/h, car_age = 10 years, 
+experience = 5years.
